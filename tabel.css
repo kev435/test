@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    /* margin-top: 50px; */
+    width: 100%;
+}
+
+.tr1 {
+    background-color: rgb(12, 198, 127);
+    color: white;
+}
+
+.tr1 td {
+   padding: 20px; 
+   
+}
+
+img {
+    width: 150px;
+}
